@@ -1,1 +1,1 @@
-print('Walee
+print('Waleed'
